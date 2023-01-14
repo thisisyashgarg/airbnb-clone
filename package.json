@@ -4,8 +4,8 @@
   "description": "Quick start:",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel public/index.html",
-    "build": "parcel build public/index.html"
+    "start": "parcel Solo-Project-2/src/index.html",
+    "build": "parcel build Solo-Project-2/src/index.html"
   },
   "keywords": [],
   "author": "",
