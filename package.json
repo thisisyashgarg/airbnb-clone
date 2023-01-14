@@ -4,8 +4,8 @@
   "description": "Quick start:",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel Jokes-API/index.html",
-    "build": "parcel build Jokes-API/index.html"
+    "start": "parcel public/index.html",
+    "build": "parcel build public/index.html"
   },
   "keywords": [],
   "author": "",
